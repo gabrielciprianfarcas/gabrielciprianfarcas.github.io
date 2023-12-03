@@ -1,1 +1,0 @@
-# gabrielciprianfarcas.github.io
