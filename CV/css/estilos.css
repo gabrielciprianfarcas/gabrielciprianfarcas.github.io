@@ -1,0 +1,99 @@
+body {
+    background-image: url('../img/-textura-html.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background: size 60%;
+    zoom: 90%;
+}
+
+h1 {
+    margin-left: 37%;
+    color: aliceblue
+}
+
+nav {
+    background-color: red;
+    color: black;
+    padding: 18px;
+    margin-bottom: 50px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    border: black solid;
+    border-radius: 33px;
+}
+
+.apartado {
+    display: inline;
+    margin: 8% 8%;
+}
+
+.barralateralizquierda>.apartado {
+    display: block;
+}
+
+.barralateralizquierda {
+    background-color: lightgray;
+    color: black;
+    width: 10%;
+    height: 725px;
+    float: left;
+    box-sizing: border-box;
+    margin-top: 80px;
+    margin-right: 7%;
+    margin-bottom: 3%;
+    border-radius: 10px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.titulocv {
+
+    float: left;
+    border: 3px solid white;
+    width: 40%;
+    border-radius: 26px;
+    margin-top: 50px;
+    margin: 1px;
+    text-align: center;
+    margin-left: 18%;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+.maincv {
+    float: left;
+    border: 5px dashed yellow;
+    width: 77%;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    margin-top: 50px;
+    margin: 1px;
+    text-align: center;
+    color: black;
+    font-size: 20px;
+    background-color: darkgoldenrod;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+table {
+    width: 60%;
+    margin-left: 20%;
+    color: white;
+    border-radius: 4%;
+
+}
+
+td.fotocv {
+    width: 25%;
+}
+
+
+footer {
+    float: left;
+    background-color: lightblue;
+    width: 100%;
+    padding: 20px;
+    text-align: center;
+    margin-bottom: 0px;
+
+}
